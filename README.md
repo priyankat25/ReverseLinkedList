@@ -1,8 +1,8 @@
 # ReverseLinkedList
 Input:
-Enter the number of nodes:
+Enter the number of elements in the linked list:
 5
-Enter the values for each node:
+Enter the elements:
 5
 2
 8
@@ -15,9 +15,9 @@ Reversed Linked List:
 4 1 8 2 5 
 
 Input: 
-Enter the number of nodes:
+Enter the number of elements in the linked list:
 4
-Enter the values for each node:
+Enter the elements:
 3
 7
 1
